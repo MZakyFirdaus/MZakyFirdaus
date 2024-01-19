@@ -1,16 +1,17 @@
-### Hi there 👋
+![I am Data Engineer Antusiast](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010144.jpg?w=900&t=st=1705649535~exp=1705650135~hmac=5cb6e17e22fd4354c93dff6be8b92c21de900c4dcc96b17d27043a038464b0fe)
 
-<!--
-**MZakyFirdaus/MZakyFirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is **M. Zaky Firdaus**
+#### I am Data Engineer Antusiast
 
-Here are some ideas to get you started:
+A final year Physics Engineering student at Universitas Gadjah Mada, I am passionate about pursuing a career in Data Engineering and Cloud Computing. I have experience in Data Analysis, Machine Learning, Safety Instrumented Systems, and Google Cloud, and am skilled in using Python, Excel, and Google Cloud. I am also adept at communication and project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS / JS / Python / Google Cloud
+
+- 🔭 I’m currently working on  my own project; create a 2D Alien Invasion game using python 
+- 🌱 I’m currently learning Pandas, Matplotlib and Plotly 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MZakyFirdaus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mzakyfirdaus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/firdauszakyy/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MZakyFirdaus&show_icons=true)  
+
