@@ -6,7 +6,7 @@ A final year Physics Engineering student at Universitas Gadjah Mada, I am passio
 
 Skills: HTML / CSS / JS / Python / Google Cloud
 
-- 🔭 I’m currently working on  my own project; create a 2D Alien Invasion game using python 
+- 🔭 I’m currently working on  my own project; Data Analysis Projects
 - 🌱 I’m currently learning Pandas, Matplotlib and Plotly 
 
 
