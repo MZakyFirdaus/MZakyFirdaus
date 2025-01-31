@@ -18,7 +18,7 @@ Git | HTML/CSS | JavaScript
 
 ### 🔥 Featured Projects
 - [NYC Taxi Trips](https://github.com/MZakyFirdaus/Portofolio-Projects/tree/main/Projects/NY%20Taxi) - Built an end-to-end ETL pipeline using Mage.AI and GCP to analyze 10M+ NYC Yellow Taxi trips, identifying peak hours, popular locations, and optimal advertising days.
-- [Sales & Customer Analysis](link) - Interactive dashboard for Sales and Customers analysis
+- [Sales & Customer Analysis](https://github.com/MZakyFirdaus/Portofolio-Projects/tree/main/Projects/Sales%20Customer%20Dashboard) - Interactive dashboard for Sales and Customers analysis
 - [Thesis: Design Of Soft Sensor to Predict Oxygen Concentrations](link) - Machine learning model for Oxygen Concentrations prediction
 
 ### 📌 Currently
