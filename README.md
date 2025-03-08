@@ -3,7 +3,7 @@
 
 🎓 Fresh Graduate of Physics Engineering from Universitas Gadjah Mada<br>
 💻 Passionate in Transforming Raw Data into Actionable Insights<br>
-☁️ Cloud Computing Enthusiast with Hands-on Experience in GCP
+☁️ Data Analyst Enthusiast with Hands-on Experience in GCP
 
 ### 🛠️ Technical Skills
 **Data Analysis & Visualization**  
